@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1704.2
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PollyArticle", "PollyArticle\PollyArticle.csproj", "{17C86D53-3619-4246-BD98-F745E4EF8160}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakeAPI", "FakeAPI\FakeAPI.csproj", "{2D11A403-A3E6-4FA8-B6EF-9A3552836915}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{17C86D53-3619-4246-BD98-F745E4EF8160}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17C86D53-3619-4246-BD98-F745E4EF8160}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17C86D53-3619-4246-BD98-F745E4EF8160}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D11A403-A3E6-4FA8-B6EF-9A3552836915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D11A403-A3E6-4FA8-B6EF-9A3552836915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D11A403-A3E6-4FA8-B6EF-9A3552836915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D11A403-A3E6-4FA8-B6EF-9A3552836915}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
